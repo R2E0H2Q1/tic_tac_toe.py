@@ -1,4 +1,4 @@
-#Tic Tac oe is played on a 3x3 grid.
+#Tic Tac Toe is played on a 3x3 grid.
 """
 As a first step we need to create the board game.
 """
